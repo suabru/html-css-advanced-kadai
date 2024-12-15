@@ -110,12 +110,26 @@ SP用のスタイル
     margin: 80px 0 30px 20px;
   }
 
-  #nav-sp a:link,
-  #nav-sp a:visited,
-  #nav-sp a:hover,
-  #nav-sp a:active {
-    color: #fff;
-  }
+  #nav-sp a {
+    display: block;
+    }
+    
+    #nav-sp a {
+    color: #ffffff;
+    }
+    
+    #nav-sp a {
+    color: #ffffff;
+    }
+    
+    #nav-sp a {
+    color: #ffffff;
+    text-decoration: underline;
+    }
+    
+    #nav-sp a {
+    color: #ffffff;
+    }
   #nav-sp .menu {
     text-decoration: none;
     display: block;
